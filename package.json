@@ -1,0 +1,21 @@
+{
+  "name": "Gilahrajji",
+  "version": "1.0.0",
+  "description": "Pracheen Sidhpeeth Shri Gilahraj Ji Mandir Aligarh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/G4GENIUS/gilahrajji"
+  },
+  "author": "Gaurang Varshney",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/G4GENIUS/gilahrajji/issues"
+  },
+  "homepage": "https://gilahrajji.com"
+}
