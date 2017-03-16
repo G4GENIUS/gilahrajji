@@ -15,7 +15,7 @@
     <author href="http://fb.com/gogaurang" email="gaurangvarshney@gmail.com">
         Gaurang Varshney
     </author>
-
+    <icon src="www/img/icon.png">
     <!-- Define the main entry-point to the application -->
     <content src="index.html" />
 
@@ -52,7 +52,7 @@
 
     <!-- Define app icon and splashscreen for each platform. -->
     <platform name="android">
-        <icon   src="www/res/icon/android/drawable-ldpi-icon.png"               density="ldpi" />
+        <!-- <icon   src="www/res/icon/android/drawable-ldpi-icon.png"               density="ldpi" />
         <icon   src="www/res/icon/android/drawable-mdpi-icon.png"               density="mdpi" />
         <icon   src="www/res/icon/android/drawable-hdpi-icon.png"               density="hdpi" />
         <icon   src="www/res/icon/android/drawable-xhdpi-icon.png"              density="xhdpi" />
@@ -69,7 +69,7 @@
         <splash src="www/res/screen/android/drawable-port-hdpi-screen.png"      density="port-hdpi" />
         <splash src="www/res/screen/android/drawable-port-xhdpi-screen.png"     density="port-xhdpi" />
         <splash src="www/res/screen/android/drawable-port-xxhdpi-screen.png"    density="port-xxhdpi" />
-        <splash src="www/res/screen/android/drawable-port-xxxhdpi-screen.png"   density="port-xxxhdpi" />
+         <splash src="www/res/screen/android/drawable-port-xxxhdpi-screen.png"   density="port-xxxhdpi" />-->
     </platform>
 
     <platform name="ios">
