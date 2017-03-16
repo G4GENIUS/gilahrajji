@@ -15,7 +15,6 @@
     <author href="http://fb.com/gogaurang" email="gaurangvarshney@gmail.com">
         Gaurang Varshney
     </author>
-    <icon src="www/img/icon.png">
     <!-- Define the main entry-point to the application -->
     <content src="index.html" />
 
@@ -134,7 +133,8 @@
         <icon   src="www/res/icon/windows/Wide310x150Logo.scale-240.png"     platform="windows"   width="744"  height="360" />
         <splash src="www/res/screen/windows/SplashScreenPhone.scale-240.png" platform="windows"   width="1152" height="1920" />
     </platform>
-
+    <icon src="www/img/icon.png">
+    
     <!--
         Define access to external domains.
 
