@@ -34,6 +34,8 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        var onInApp = window.open(encodeURI('http://gilahrajji.com'), '_blank', 'location=yes');
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
